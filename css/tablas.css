@@ -1,0 +1,30 @@
+img.por{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #121212;
+}
+h1{
+    color: white;
+}
+img.reg{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+}
+a.enl{
+    height: 50px;
+    width: 150px;
+    display: center;
+    padding: 5px 15px;
+    background-color: #121212;
+    border-radius: 0px;
+}
+img{
+    height: 80px;
+    width: 400px;
+    border-radius: 5px;
+}
